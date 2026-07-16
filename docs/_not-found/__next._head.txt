@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[25326,["/yueyue/_next/static/chunks/0typu5mmra_zv.js"],"ViewportBoundary"]
+3:I[25326,["/yueyue/_next/static/chunks/0typu5mmra_zv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"月月上岸计划｜教师资格证闯关复习"}],["$","meta","1",{"name":"description","content":"为月月制作的教师资格证科目二与初中地理趣味闯关复习网站。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8aiHwq-urVsx7M5jWIhA1"}
